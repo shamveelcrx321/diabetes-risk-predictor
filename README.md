@@ -87,4 +87,4 @@ This will regenerate the serialized model and scaler.
 ## Author
 
 Shamveel  
-Artificial Intelligence & Machine Learning
+
