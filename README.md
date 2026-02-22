@@ -12,7 +12,7 @@ This project implements a structured machine learning pipeline including:
 
 - Data preprocessing and missing value handling  
 - Feature scaling using StandardScaler  
-- Model training using Random Forest Classifier  
+- Model training using Random Forest Classifier with tuned parameters
 - Evaluation using classification metrics and confusion matrix  
 - Model serialization for future deployment  
 
